@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TutPolin</string>
+    <string name="but_1">Кнопка 1</string>
+    <string name="but_2">Кнопка 2</string>
+    <string name="Hello">Hello World!</string>
+    <string name="but_save">Сохранить</string>
+    <string name="edText1">Введите данные(1):</string>
+    <string name="edText2">Введите данные(2):</string>
+</resources>
